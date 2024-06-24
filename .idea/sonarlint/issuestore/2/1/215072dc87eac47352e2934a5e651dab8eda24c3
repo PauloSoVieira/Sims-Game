@@ -1,10 +1,0 @@
-
-¶
-java:S1319"nThe type of "houseArrayList" should be an interface such as "List" rather than the implementation "ArrayList".(“Éë©üÿÿÿÿ8Â…‰€2J$63eff67d-ca95-4afa-8292-3860f09843cd
-€
-java:S1155!">Use isEmpty() to check whether the collection is empty or not.(»‚¨a8È…‰€2J$3c611059-2796-4212-815c-4fa0acca5f9d
-m	java:S106%"+Replace this use of System.out by a logger.(¢çÃ»8Ê…‰€2J$a1d39601-41e7-4623-8f67-6d6e24a1d988
-r	java:S106&"+Replace this use of System.out by a logger.(‰­Ë³ıÿÿÿÿ8Ì…‰€2J$4389f207-16d8-4e40-8ec9-3be984ceeee4
-m	java:S106("+Replace this use of System.out by a logger.(›•Ôú8Ì…‰€2J$029fbe87-63ab-4745-a727-a64c56cf5eae
-o
-java:S1068",Remove this unused "dirtness" private field.(ğ¼«8Ì…‰€2J$d0d69630-749a-4a23-90a7-28e983f9976a
